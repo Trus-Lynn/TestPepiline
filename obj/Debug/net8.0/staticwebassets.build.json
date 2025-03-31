@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OFY2plzJa4tVvOz6sC/9tXmEfI+CDm3ZwOul/bD8AFw=",
+  "Source": "Test-Pepiline",
+  "BasePath": "_content/Test-Pepiline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
